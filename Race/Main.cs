@@ -99,7 +99,7 @@ namespace Race
 
                 else
                 {
-                    if (Balance > 10)
+                    if (Balance >= 10)
                     {
 
                         foreach (var track in Tracks)
